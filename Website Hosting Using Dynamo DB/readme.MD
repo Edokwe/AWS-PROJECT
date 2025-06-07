@@ -42,4 +42,22 @@ Learning Outcomes:
 
 ---
 
+Lab Tasks Overview:
 
+1. Launch a basic EC2 web server in one Availability Zone.
+
+2. Register and configure a domain in Route 53.
+
+3. Deploy a Load Balancer in front of EC2 instances.
+
+4. Set up Auto Scaling based on CPU utilization.
+
+5. Launch a multi-AZ Dynamo DB database for backend storage.
+
+6. Apply Security Groups and IAM roles for secure access.
+
+7. Enable WAF/Shield to protect against common web threats.
+
+8. Use CloudWatch to monitor metrics and set alerts.
+
+9. Perform failure testing by terminating instances or disabling AZs to verify HA.
