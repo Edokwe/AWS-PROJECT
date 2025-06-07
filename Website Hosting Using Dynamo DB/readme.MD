@@ -26,3 +26,16 @@ Learning Outcomes:
 
 --- 
 
+- Core AWS Services Used:
+
+- Compute: Amazon EC2 with Auto Scaling
+
+- Load Balancing: Elastic Load Balancer (ELB)
+
+- Database: Dynamo DB (Multi-AZ) or Aurora
+
+- DNS & Traffic Routing: Amazon Route 53
+
+- Security: Security Groups, IAM, AWS WAF, AWS Shield
+
+- Monitoring: Amazon CloudWatch (logs, alarms, dashboards)
