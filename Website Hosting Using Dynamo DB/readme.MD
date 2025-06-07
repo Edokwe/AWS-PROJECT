@@ -61,3 +61,6 @@ Lab Tasks Overview:
 8. Use CloudWatch to monitor metrics and set alerts.
 
 9. Perform failure testing by terminating instances or disabling AZs to verify HA.
+
+---
+
