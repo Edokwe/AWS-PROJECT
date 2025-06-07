@@ -23,3 +23,6 @@ Learning Outcomes:
 - Monitor system performance using Amazon CloudWatch and configure alerting.
 
 - Test fault tolerance by simulating instance or AZ failures.
+
+--- 
+
