@@ -1,3 +1,4 @@
+
 ## Lab Objective:Implementing a Scalable, Highly Available Website in AWS
 
 Objective:
@@ -64,3 +65,12 @@ Lab Tasks Overview:
 
 ---
 
+- Deliverables:
+
+- Deployed infrastructure (web app + Dynao DB + CDN + Auto-scaling).
+
+- Screenshots of each step and CloudWatch metrics.
+
+- Written summary/report explaining each AWS component used and its role.
+
+- Fault tolerance test results.
